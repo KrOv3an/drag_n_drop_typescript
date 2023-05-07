@@ -11,11 +11,11 @@ Getting Started
 
 1. Clone this repository:
 
-   `https://github.com/KrOv3an/drag_n_drop_typescript.git`
+`https://github.com/KrOv3an/drag_n_drop_typescript.git`
 
 2. Navigate to the project directory:
 
-    `cd drag_n_drop_typescript`
+ `cd drag_n_drop_typescript`
 
 3. Install the project dependencies:
 
