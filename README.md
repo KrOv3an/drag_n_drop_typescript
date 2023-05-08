@@ -11,7 +11,7 @@ Getting Started
 
 1. Clone this repository:
 
-`https://github.com/KrOv3an/drag_n_drop_typescript.git`
+`git clone https://github.com/KrOv3an/drag_n_drop_typescript.git`
 
 2. Navigate to the project directory:
 
